@@ -1,0 +1,9 @@
+pandas
+numpy
+joblib
+nltk
+IPython
+matplotlib
+ipywidgets
+sklearn
+voila
