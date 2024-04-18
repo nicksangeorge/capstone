@@ -5,5 +5,5 @@ nltk
 IPython
 matplotlib
 ipywidgets
-sklearn
+scikit-learn
 voila
